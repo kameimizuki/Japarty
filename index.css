@@ -16,7 +16,7 @@ li {
 }
 
 .header {
-  background-color: gold;
+  background-color: rgb(4, 24, 53);
   color: #fff;
   height: 107px;
   
@@ -146,7 +146,7 @@ textarea, input{
 }
 
 .footer {
-  background-color: rgb(50, 102, 50);
+  background-color: rgb(48, 48, 51);
   color: #fff;
   height: 200px;
 
