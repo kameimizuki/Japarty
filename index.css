@@ -17,7 +17,7 @@ li {
 
 .header {
   background-color: rgb(4, 24, 53);
-  color: ;
+  color: #fff;
   height: 107px;
   
 }
@@ -53,9 +53,9 @@ span{
 }
 .header-list li a {
   text-decoration: none;
-  color: white;
+  color:whitesmoke;
   padding: 10px;
-  background-color: rgb(255, 123, 35);
+  background-color: rgb(201, 22, 22);
   border-radius: 5px;
   transition:all 1.5s;
 }
@@ -148,7 +148,7 @@ textarea, input{
 .footer {
   background-color: rgb(48, 48, 51);
   color: #fff;
-  height: 200px;
+  height: 139px;
 
 }
 
